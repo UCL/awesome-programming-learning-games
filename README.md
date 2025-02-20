@@ -4,10 +4,10 @@ Here, we collect awesome programming learning games arranged into programming la
 
 **Legend**
 
-🔓 means **open source**, therefore you have access to the source code and can study it, modified it and share it.
-🆓 means it's **free** to use, but it's not open source
-⏳ means you can play a demo for limited ammount of time or features
-💰 means the only way to use it is through paying for it
+🔓 means **open source**, therefore you have access to the source code and can study it, modified it and share it.  
+🆓 means it's **free** to use, but it's not open source.  
+⏳ means you can play a demo for limited ammount of time or features.  
+💰 means the only way to use it is through paying for it.  
 
 ## Content
 - [SQL](#sql)
