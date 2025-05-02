@@ -14,6 +14,7 @@ Here, we collect awesome programming learning games arranged into programming la
 - [Version Control](#version-control)
 - [GPU programming](#gpu-programming)
 - [Array programming](#array-programming)
+- [Misc](#misc)
 
 ## SQL
 
@@ -31,4 +32,7 @@ Here, we collect awesome programming learning games arranged into programming la
 ## Array programming
 
 - 🔓 [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) - Learn the internals of PyTorch and NumPy by solving puzzles (reimplement standard functions without depending on theses array libraries).
-  
+
+## Misc
+
+- ⏳ [codex.io](https://www.codedex.io) - Game-ified courses on several programming languages and technologies.
