@@ -10,15 +10,16 @@ Here, we collect awesome programming learning games arranged into programming la
 💰 means the only way to use it is through paying for it.  
 
 ## Content
-- [SQL](#sql)
+- [Databases](#databases)
 - [Version Control](#version-control)
 - [GPU programming](#gpu-programming)
 - [Array programming](#array-programming)
 - [Misc](#misc)
 
-## SQL
+## Databases
 
 - 🔓 [SQL Murder Mystery](https://mystery.knightlab.com/) - Learn SQL while solving a murder. Lots of tables to dive in and get lost.
+- 🔓 [Select a database - The adventure](https://selectadb.com) - Learn which database is more appropriated for your data playing and adventure game.
 
 ## Version Control
 - 🔓 [Oh my Git](https://ohmygit.org/) - Solitary card game where you choose what action to do from a selection to manage a mission.
