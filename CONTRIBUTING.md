@@ -10,4 +10,4 @@ We welcome contributions to the list of awesome programming games. You can do th
 3. Create a [pull request](https://github.com/UCL/awesome-programming-learning-games/pulls) to pull your changes to the main branch of awesome-programming-learning-games.
 4. Request a review from one of the maintainers.
 
-You can do the above by your preferred method, but the easiest way is to use the :edit: button in the Github web interface.
+You can do the above by your preferred method, but the easiest way is to use the `edit file` button in the Github web interface.
